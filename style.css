@@ -74,6 +74,7 @@ border: 1.5px solid white;
 }
 .nav-search:hover{
     border: 3px solid orange;
+    border-radius: 4px;
 }
 .nav-search{
     display: flex;
@@ -276,7 +277,8 @@ h2{
    color: black;
 }
 .packets a{
-    color: lightskyblue;
+    color: darkblue;
+    text-decoration: none;
 }
 .packet-1{
     width: 300px;
